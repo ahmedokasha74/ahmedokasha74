@@ -1,6 +1,6 @@
 # Ahmed Okasha GitHub Profile README
 
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ahmed%20Hamdy%20Okasha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Generative%20AI%20Engineer%20%7C%20RAG%20Developer&descAlignY=55&descSize=18" />
@@ -197,39 +197,3 @@ while(True):
 ### ⭐ Turning AI Ideas Into Real Applications
 
 </div>
-```
-
----
-
-# 📌 How To Use
-
-## 1.
-
-Create a repository with the same exact name as your GitHub username:
-
-```bash
-ahmedokasha74
-```
-
-## 2.
-
-Upload this README.md inside the repository.
-
-## 3.
-
-It will automatically appear on your GitHub profile.
-
-## 4.
-
-Replace:
-
-```bash
-YOUR_LINKEDIN
-YOUR_EMAIL
-```
-
-with your real links.
-
-## 5.
-
-Add screenshots and update project sections later.
